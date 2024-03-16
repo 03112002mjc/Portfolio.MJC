@@ -305,7 +305,7 @@ nav ul li a:hover{
         position: absolute;
         width: 100%;
         height: 100%;
-        background: rgb(0, 40, 125);
+        background: rgb(7, 28, 74);
         border-radius: 50%;
         transform: scale(.88);
         z-index: -1;
